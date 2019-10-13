@@ -4,4 +4,5 @@ this is a new git file.
 这是第三次修改
 老板是傻逼
 分支测试
-master测试冲突
+冲突测试
+master冲突测试
